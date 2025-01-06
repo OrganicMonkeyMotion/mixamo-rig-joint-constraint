@@ -9,6 +9,12 @@ Add or subtract as many or few bones, to/from "bone_constraints" dictionary, sin
 
 Have fun animating.
 
+# Assumption
+You are or are not using the Mixamo rig add-on (this only effects bones not control bones so seems to be fine (so far) ).
+
 # Usage
 1) In viewport, select armature.
 2) F3 and search for "Add Limit Rotation Constraints".
+
+# Hints
+Hands and fingers are often main culprits.  Wrists bent out of shape, fingers passing through one another or thumbs passing through hands.  May need some manual adjustments of control bones.
