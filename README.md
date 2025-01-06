@@ -23,3 +23,4 @@ You are or are not using the Mixamo rig add-on (this only effects bones not cont
 
 # Hints
 Hands and fingers are often main culprits.  Wrists bent out of shape, fingers passing through one another or thumbs passing through hands.  May need some manual adjustments of control bones.
+Note if you apply limits to fingers you may still get "collisions" but look at them intently, they'll often pass as fingers pressed and flesh compressed (given the often partial collision). That is, they won't be finger passing through bones in hand and out the other side but may pass as "natural" skin compression contact.  Up to your tastes as the animator.
