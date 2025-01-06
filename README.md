@@ -6,3 +6,7 @@ Seemed to work a treat to remove some of the collisions, since they were (root c
 The attached script applies a set of bone rotation limits (based upon humans and so representative of the source armature in the mixamo world view).  Add or subtract as many or few bones, since you may not need constrain all bones to solve the collisions you're seeing.
 
 Have fun animating.
+
+# Usage
+1) In viewport, select armature.
+2) F3 and search for "Add Limit Rotation Constraints".
