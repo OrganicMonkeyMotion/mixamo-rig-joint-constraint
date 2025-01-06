@@ -18,8 +18,12 @@ Have fun animating.
 You are or are not using the Mixamo rig add-on (this only effects bones not control bones so seems to be fine (so far) ).
 
 # Usage
-1) In viewport, select armature.
-2) F3 and search for "Add Limit Rotation Constraints".
+1) Download https://github.com/OrganicMonkeyMotion/mixamo-rig-joint-constraint/blob/main/constrain_joints.py and stash it in your blender scripts folder.
+2) Load constrain_joints.py into the Blender Text Editor tab.
+3) Edit in/out as many joints you wish to put constraints upon.
+4) Run constrain_joints.py from the Blender Text Editor tab.
+5) In viewport (object mode), select armature.
+6) F3 and search for and then run "Add Limit Rotation Constraints".
 
 # Hints
 Hands and fingers are often main culprits.  Wrists bent out of shape, fingers passing through one another or thumbs passing through hands.  May need some manual adjustments of control bones.
