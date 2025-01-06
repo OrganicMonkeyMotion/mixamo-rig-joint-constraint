@@ -8,10 +8,10 @@ The attached script applies a set of bone rotation limits (based upon humans and
 Add or subtract as many or few bones, to/from "bone_constraints" dictionary, since you may not need constrain all bones to solve the collisions you're seeing.
 
 Have fun animating.
-## Twisted right wrist before running operator
+## Twisted left and right wrists before running operator
 ![Alt text](pics/right%20wrist%20twist%20114.png)
 
-## Twist limited to joint limits after running operator
+## Twist limited to wrist joint limits after running operator
 ![Alt text](pics/right%20wrist%20untwisted%20114.png)
 
 # Assumption
