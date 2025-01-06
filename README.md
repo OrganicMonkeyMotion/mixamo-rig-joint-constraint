@@ -3,7 +3,9 @@ You may notice if you use a character that does not have human proportions, your
 I am working on collision detection and other tools, but it occured to me if this was a problem with bone joint rotations, then why not simply put bone constraints on the joints?
 Seemed to work a treat to remove some of the collisions, since they were (root cause) because of wrist over rotations especially.
 
-The attached script applies a set of bone rotation limits (based upon humans and so representative of the source armature in the mixamo world view).  Add or subtract as many or few bones, since you may not need constrain all bones to solve the collisions you're seeing.
+The attached script applies a set of bone rotation limits (based upon humans and so representative of the source armature in the mixamo world view).  
+
+Add or subtract as many or few bones, to/from "bone_constraints" dictionary, since you may not need constrain all bones to solve the collisions you're seeing.
 
 Have fun animating.
 
